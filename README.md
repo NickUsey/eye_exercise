@@ -1,5 +1,3 @@
-# eye_exercise
-
 <!DOCTYPE html>
 <html>
 <head>
